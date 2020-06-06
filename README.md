@@ -1,2 +1,3 @@
 # hello-world
-Working through the Hello World Tutorial on GitHub
+
+Making some changes to the README file that we'll then commit to the master branch.
